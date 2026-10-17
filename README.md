@@ -6,6 +6,10 @@
 
 ![examples](examples/stills/yueguang.jpg)
 
+## 成品案例
+
+两支完整成片（达拉崩吧·皮克斯风、月光·大鱼海棠风）见 [showcase/](showcase/)。视频中音频版权归原作者所有，仅作技术演示。
+
 ## 内容
 | 路径 | 说明 |
 |---|---|
