@@ -1,0 +1,14 @@
+{
+  "name": "mv-starter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Code-generated lyric MV starter (Canvas 2D + Playwright + ffmpeg)",
+  "scripts": {
+    "serve": "node tools/server.mjs 8123",
+    "lint": "bash tools/lint.sh",
+    "seams": "node tools/seams.mjs",
+    "render": "node tools/renderfilm.mjs --dpr 2 --workers 3"
+  },
+  "dependencies": { "playwright-core": "^1.64.0" }
+}
